@@ -9,13 +9,19 @@ function Navbar({title}) {
             <ul className="navbar-nav d-flex">
                 <div className="d-flex justify-content-around">
                 <li className="nav-item active">
-                    <Link to = "/" className = "nav-link">Home Page</Link>
+                    <Link to = "/workout" className = "nav-link">Workout</Link>
                 </li>
                 <li className="nav-item active">
-                    <Link to = "/add" className = "nav-link">Add User</Link>
+                    <Link to = "/blog" className = "nav-link">Blog</Link>
                 </li>
                 <li className="nav-item active">
-                    <Link to = "/github" className = "nav-link">Project Files</Link>
+                    <Link to = "/github" className = "nav-link">Contact</Link>
+                </li>
+                <li className="nav-item active">
+                    <Link to = "/user" className = "nav-link">User</Link>
+                </li>
+                <li className="nav-item active">
+                    <Link to = "/add" className = "nav-link">Register</Link>
                 </li>
                 </div>
                 

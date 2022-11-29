@@ -11,17 +11,6 @@
       "id": "1"
     },
     {
-      "gender": "Female",
-      "name": "Devrim",
-      "age": "28",
-      "height": "176",
-      "weight": "100",
-      "neck": "45",
-      "waist": "99",
-      "hip": "90",
-      "id": "RPTzZww"
-    },
-    {
       "gender": "Male",
       "name": "cansin",
       "age": "24",
@@ -31,17 +20,6 @@
       "waist": "65",
       "hip": "",
       "id": "XRodi0t"
-    },
-    {
-      "gender": "Male",
-      "name": "Burak",
-      "age": "22",
-      "height": "190",
-      "weight": "115",
-      "neck": "45",
-      "waist": "105",
-      "hip": "",
-      "id": "gnWGqs2"
     }
   ]
 }

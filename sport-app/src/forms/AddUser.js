@@ -70,7 +70,7 @@ class AddUser extends Component {
                 value => {
                     const {dispatch} = value;
                     return (
-                        <div className='col-md-8 mb-4'>
+                        <div className='col-md-12 mb-4'>
                             <button className="btn btn-dark btn-block mb-2" onClick={this.changeVisibility} style={{cursor : "pointer"}}>{visible?"Hide Form":"Show Form"}</button>
                             {
                                 visible ? <div className="card">
